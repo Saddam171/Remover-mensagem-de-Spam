@@ -1,12 +1,12 @@
 /**
  * @name RemoveLikelySpammer
- * @author verlox
+ * @author rzung
  * @description Remove the annoying '1 hidden message hidden from likely spammer' item in chat
  * @version 0.0.1
  * @invite lith
- * @authorId 921558491255148615
- * @authorLink https://verlox.cc
- * @source https://github.com/verlox/RemoveLikelySpammer
+ * @authorId 953447676232491049
+ * @authorLink https://rzung.vercel.app/
+ * @source https://github.com/Saddam171/Remover-mensagem-de-Spam
  */
 
 module.exports = class RemoveLikelySpammer {
